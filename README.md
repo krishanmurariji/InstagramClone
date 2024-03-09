@@ -14,8 +14,6 @@ Upload photos with captions
 View profile and other users' profiles
 Like and comment on photos
 Follow and unfollow users
-Screenshots
-<img src="screenshots/signup.jpg" width="200"> <img src="screenshots/login.jpg" width="200"> <img src="screenshots/upload.jpg" width="200"> <img src="screenshots/profile.jpg" width="200"> <img src="screenshots/feed.jpg" width="200"> <img src="screenshots/notifications.jpg" width="200">
 
 Tech Stack
 This app was built using the following technologies:
