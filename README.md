@@ -7,12 +7,9 @@ Hey there! 👋
 I am Krishan i have created this Instagram Clone app. I am a Web Developer and Poet with a passion for exploring new technologies and the tech world. I love to code, write poetry, and watch movies.
 
 This Instagram Clone app is a simple and beautiful social media app built using Kotlin and XML in Android Studio. It allows users to sign up, log in, upload photos, add captions, and view their own profile and the profiles of other users.
-
-Features
-
-
 https://github.com/user-attachments/assets/b1cf35fd-fdf5-432c-8371-90807ec5b6d9
 
+Features
 User authentication with email and password
 Upload photos with captions
 View profile and other users' profiles
